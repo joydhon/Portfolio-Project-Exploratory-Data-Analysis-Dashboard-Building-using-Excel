@@ -7,7 +7,7 @@ Welcome to the Airbnb Europe Dataset Analysis project! In this repository, I've 
 ## Dashboard Preview
 Check out the interactive Storyteller Dashboard created with Excel. Users can delve into the details using filters/slicers for a more in-depth analysis.
 
-![Dashboard Preview](link_to_image)
+![Dashboard Preview]([link_to_image](https://github.com/joydhon/Portfolio-Project-Exploratory-Data-Analysis-Dashboard-Building-using-Excel/blob/main/2023-12-24%2004%2057%2045.png))
 
 ## Key Insights
 - **City-wise Recommendations:** Explored recommendations and performed SWOT analysis for each city.
